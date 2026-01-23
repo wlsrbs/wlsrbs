@@ -14,11 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-📓 AI 노트  
-📍 Pangyo  
-📫 [AI Resume](https://wlsrbs.github.io/AI-Resume/)
-✉️ [Notion](https://sand-munchkin-966.notion.site/AI-6c5t  )
-✉️ [BLOG](https://blog.naver.com/jinkyun97)
-✉️ [MAIL](jinkyun97@gmail.com )
-
+📍 안녕하세요. <br>
+<br>
+📫 [AI Resume](https://wlsrbs.github.io/AI-Resume/) <br>
+✉️ [Notion](https://sand-munchkin-966.notion.site/AI-6c5t) <br>
+✉️ [BLOG](https://blog.naver.com/jinkyun97) <br>
+✉️ [MAIL](mailto:jinkyun97@gmail.com)
 
