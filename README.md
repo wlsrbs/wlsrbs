@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+📓 AI 노트  
+📍 Pangyo  
+✉️ jinkyun97@gmail.com  
+🔗 https://wlsrbs.github.io/AI-Resume/  
+🧠 https://sand-munchkin-966.notion.site/AI-6c5t  
+✍️ https://blog.naver.com/jinkyun97
