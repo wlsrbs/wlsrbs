@@ -16,7 +16,9 @@ Here are some ideas to get you started:
 -->
 📓 AI 노트  
 📍 Pangyo  
-✉️ jinkyun97@gmail.com  
-🔗 https://wlsrbs.github.io/AI-Resume/  
-🧠 https://sand-munchkin-966.notion.site/AI-6c5t  
-✍️ https://blog.naver.com/jinkyun97
+📫 [AI Resume](https://wlsrbs.github.io/AI-Resume/)
+✉️ [Notion](https://sand-munchkin-966.notion.site/AI-6c5t  )
+✉️ [BLOG](https://blog.naver.com/jinkyun97)
+✉️ [MAIL](jinkyun97@gmail.com )
+
+
