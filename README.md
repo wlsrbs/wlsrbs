@@ -20,4 +20,3 @@ Here are some ideas to get you started:
 🔗 https://wlsrbs.github.io/AI-Resume/  
 🧠 https://sand-munchkin-966.notion.site/AI-6c5t  
 ✍️ https://blog.naver.com/jinkyun97
-^https://(www\\.)?instagram\\.com/[^/?]+/?$
