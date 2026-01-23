@@ -1,4 +1,4 @@
-## Hi there 👋
+## 안녕하세요. 👋
 
 <!--
 **wlsrbs/wlsrbs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-📍 안녕하세요. <br>
+📍 Introduction <br>
 <br>
 📫 [AI Resume](https://wlsrbs.github.io/AI-Resume/) <br>
 ✉️ [Notion](https://sand-munchkin-966.notion.site/AI-6c5t) <br>
