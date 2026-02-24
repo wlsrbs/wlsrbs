@@ -64,7 +64,7 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
-![Ansna](https://img.shields.io/badge/Ansna-FF6347?style=for-the-badge)
+![Asana](https://img.shields.io/badge/Asana-FF6347?style=for-the-badge)
 
 ---
 
