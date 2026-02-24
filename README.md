@@ -18,7 +18,7 @@
 - 📁 [포트폴리오](https://drive.google.com/file/d/1wjDQHlo8J0txw723e2-69lGC4VrA8OOm/view?usp=sharing)
 - 🧠 [Notion](https://www.notion.so/AI-6c5bd509c4204b54904dffb5ab977da1)
 - ✍️ [Blog](https://blog.naver.com/jinkyun97)
-- 📩 jinkyun97@gmail.com
+- 📩 wlsrbs97@gmail.com
 
 ---
 
