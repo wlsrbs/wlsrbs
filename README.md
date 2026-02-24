@@ -69,14 +69,14 @@
 
 ---
 
-## 📌 Projects
+## 📌 Key Projects
 
 ### 🔹 RAG 기반 사내 문서 검색 챗봇
 - 회사 규정 · 회의록 PDF 벡터화
 - LangChain 기반 Retriever + LLM 응답 생성
 - 문장 chunk 최적화 (chunk=500, overlap=50)
 - Embedding: BAAI/bge-m3
-- LLM: Gemma 7B
+- LLM: Gemma3 4B
 
 ---
 
