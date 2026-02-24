@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 📍 Introduction <br>
 <br>
+📫 [AI CHATBOT]([https://wlsrbs.github.io/AI-Resume/](https://sovereignly-polyzoarial-luke.ngrok-free.dev)) <br>
 📫 [AI Resume](https://wlsrbs.github.io/AI-Resume/) <br>
 ✉️ [Notion](https://www.notion.so/AI-6c5bd509c4204b54904dffb5ab977da1) <br>
 ✉️ [BLOG](https://blog.naver.com/jinkyun97) <br>
