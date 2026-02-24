@@ -22,6 +22,39 @@
 
 "모델 구현을 넘어, 실제 동작하는 AI 서비스를 만드는 엔지니어입니다."
 ---
+## 🛠 Tech Stack
+
+### 💻 Programming Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+
+### 🗄 Data & Infrastructure
+![NAS](https://img.shields.io/badge/NAS-808080?style=for-the-badge)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+
+### ⚙️ Development Environment
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-808080?style=for-the-badge)
+![Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge)
+![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
+![DBeaver](https://img.shields.io/badge/DBeaver-4B6C9E?style=for-the-badge)
+![Workbench](https://img.shields.io/badge/Workbench-0073C8?style=for-the-badge)
+
+### 🖥 OS
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+### 🚀 DevOps
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+### 🤝 Collaboration Tools
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
+![Ansna](https://img.shields.io/badge/Ansna-FF6347?style=for-the-badge)
+
+
 
 ## 🛠 Tech Stack
 
@@ -32,18 +65,18 @@
 
 ### 🤖 AI / ML
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![Ollama](https://img.shields.io/badge/Ollama-GGUF-FF69B4?style=for-the-badge)
 ![YOLO](https://img.shields.io/badge/YOLO-FF6C37?style=for-the-badge)
 ![ResNet](https://img.shields.io/badge/ResNet101-000000?style=for-the-badge)
 ![CycleGAN](https://img.shields.io/badge/CycleGAN-6F42C1?style=for-the-badge)
 ![InsightFace](https://img.shields.io/badge/InsightFace-1E90FF?style=for-the-badge)
 ![DBSCAN](https://img.shields.io/badge/DBSCAN-FF4500?style=for-the-badge)
 ![Speaker Diarization](https://img.shields.io/badge/Speaker_Diarization-20B2AA?style=for-the-badge)
-![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![Ollama](https://img.shields.io/badge/Ollama-GGUF-FF69B4?style=for-the-badge)
 
 ### 🔎 LLM / RAG
-![Gemma 7B](https://img.shields.io/badge/Gemma_7B-FF6347?style=for-the-badge)
+![Gemma 7B](https://img.shields.io/badge/Gemma3_4B-FF6347?style=for-the-badge)
 ![BAAI/bge-m3](https://img.shields.io/badge/BAAI_bge--m3-1E90FF?style=for-the-badge)
 ![RAG](https://img.shields.io/badge/Retrieval--Augmented_Generation-32CD32?style=for-the-badge)
 ![VectorStore](https://img.shields.io/badge/VectorStore-8A2BE2?style=for-the-badge)
